@@ -34,12 +34,12 @@ body{
     margin-top: 20px;
 }
 
-.restart button{
+.restart .start-new-game-btn{
     border: 2px solid #00ff2a;;
     color: #00ff2a;
 }
 
-.restart button::before{
+.restart .start-new-game-btn::before{
     background: #00ff2a;
 }
 input::placeholder,input{
