@@ -42,6 +42,9 @@ body{
 .restart .start-new-game-btn::before{
     background: #00ff2a;
 }
+.start-new-game-btn:hover {
+    color: #111;
+}
 input::placeholder,input{
     color: black;
     font-weight: 600;
